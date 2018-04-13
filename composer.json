@@ -1,0 +1,14 @@
+{
+    "name": "girol/notification",
+    "description": "Biblioteca de envio de emails para aprender Composer :3",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Luiz Girol",
+            "email": "andregirol@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
